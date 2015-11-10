@@ -1,0 +1,19 @@
+{
+  "name": "duotone-dusk-syntax",
+  "theme": "syntax",
+  "version": "0.2.0",
+  "description": "A dusk DuoTone syntax theme",
+  "keywords": [
+    "dark",
+    "dusk",
+    "blue",
+    "gold",
+    "duotone",
+    "syntax"
+  ],
+  "repository": "https://github.com/varemenos/duotone-dusk-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">1.0.0"
+  }
+}
