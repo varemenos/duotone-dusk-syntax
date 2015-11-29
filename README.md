@@ -3,7 +3,7 @@
 ## Description
 
 A double-hue syntax theme for Atom.
-This is a dark blue scheme based on [duotone dark syntax theme](https://github.com/simurai/duotone-dark-syntax) by [simurai](https://github.com/simurai).
+This is a dusk scheme based on [duotone dark syntax theme](https://github.com/simurai/duotone-dark-syntax) by [simurai](https://github.com/simurai).
 
 ## Installation
 
